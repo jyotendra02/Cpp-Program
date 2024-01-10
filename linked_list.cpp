@@ -50,6 +50,6 @@ int main()
     addNode(head,'B');
     addNode(head,'C');
     addNode(head,'D');
-    display(head);
+    
     return 0;
 }
